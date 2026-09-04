@@ -338,7 +338,6 @@ The research draws on academic and industry sources including:
 - Schiaroli, Fraccascia and Dangelico (2024) – Sustainable fashion
   consumption.
 
-The complete reference list is available in the project report.
 
 ## Author
 
