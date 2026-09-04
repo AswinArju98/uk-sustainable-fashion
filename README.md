@@ -343,3 +343,5 @@ The research draws on academic and industry sources including:
 
 Aswin Kattil Parambath is an MSc International Business and Management student at the University of Bradford with an interest in digital marketing, consumer behaviour, market research and data-driven decision-making. This project was developed as part of a marketing portfolio to demonstrate practical skills in consumer search analysis, market insight and digital marketing strategy, targeting entry-level Marketing, Digital Marketing and Marketing Executive roles in the UK.
 
+LinkeIn: www.linkedin.com/in/aswin-kattil-parambath-350a05216
+
