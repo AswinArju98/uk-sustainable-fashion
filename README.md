@@ -348,11 +348,3 @@ The complete reference list is available in the project report.
 
 **August 2026**
 
-## Disclaimer
-
-This project is an academic marketing-analysis study based on secondary
-Google Trends data.
-
-The findings represent relative online search interest and should not be
-interpreted as direct evidence of consumer purchases, sales, or overall
-market demand.
